@@ -7,7 +7,7 @@ import pyttsx3
 import re
 
 # === CONFIGURE GEMINI API ===
-genai.configure(api_key="AIzaSyAHfApekgjUuey-GD18OH2wy0XBClLxY1c")  # Replace with your actual key
+genai.configure(api_key=" ")  # Replace with your actual key
 model = genai.GenerativeModel("models/gemini-2.0-flash")
 
 # === INITIATE CHAT MEMORY ===
