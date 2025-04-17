@@ -28,7 +28,7 @@ TARS is a desktop chatbot inspired by the Interstellar movie. Built using Python
 
 2. Replace the API key:
     - Open `tars_chatbot.py`
-    - Replace `YOUR_API_KEY_HERE` with your actual Google Gemini API key.
+    - Add your actual Google Gemini API key.
 
 3. Run the bot:
     ```bash
