@@ -1,4 +1,5 @@
-# 🤖 TARS - Interstellar Chatbot with Voice, Personality & Memory
+# 🤖 TARS 
+Interstellar Chatbot with Voice, Personality & Memory
 
 TARS is a desktop chatbot inspired by the Interstellar movie. Built using Python, this AI bot interacts with you like a witty robot—complete with adjustable honesty and humor, memory, voice output, and smooth word-by-word text.
 
