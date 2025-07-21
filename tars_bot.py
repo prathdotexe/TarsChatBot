@@ -115,6 +115,7 @@ honesty_slider = ttk.Scale(slider_frame, from_=0, to=100, orient="horizontal")
 honesty_slider.set(90)
 honesty_slider.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=10)
 
+
 humor_label = tk.Label(slider_frame, text="Humor %", fg="#00ffcc", bg="#0d0d0d", font=("Courier", 10))
 humor_label.pack(side=tk.LEFT)
 humor_slider = ttk.Scale(slider_frame, from_=0, to=100, orient="horizontal")
